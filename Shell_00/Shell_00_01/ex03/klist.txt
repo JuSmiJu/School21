@@ -1,0 +1,14 @@
+Credentials cache: API:935C372D-6347-48B3-99BB-91880EB31A1B
+        Principal: mjohnath@MSK.21-SCHOOL.RU
+    Cache version: 0
+
+Server: krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Client: mjohnath@MSK.21-SCHOOL.RU
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 360
+Auth time:  Jan 18 18:26:58 2021
+End time:   Jan 19 04:26:58 2021
+Renew till: Jan 18 18:26:58 2021
+Ticket flags: enc-pa-rep, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
